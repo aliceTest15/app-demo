@@ -1,0 +1,1 @@
+window.lazySizesConfig=window.lazySizesConfig||{},window.lazySizesConfig.expand="0",window.lazySizesConfig.loadMode=1;
